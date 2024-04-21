@@ -51,7 +51,8 @@ print("%0.2f"%a)
 <br>
 
 ### 2-Norm of a Matrix
-<br>[image](https://github.com/Tharun0707/Norm-of-a-matrix/assets/145548496/a0235525-ddf0-4fc6-87d1-b263fb8cb7a6)
+<br>![image](https://github.com/Tharun0707/Norm-of-a-matrix/assets/145548496/0d5af9a9-1703-46c9-b1a5-71d77fba6f2e)
+
 
 <br>
 <br>
